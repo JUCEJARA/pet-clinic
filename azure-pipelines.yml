@@ -4,7 +4,7 @@
 # https://aka.ms/yaml
 
 
-pool:'Default'
+pool: 'Default'
 
 steps:
 - script: echo Hello, world!
